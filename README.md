@@ -1,0 +1,1 @@
+This is small app which demonstrates the use of Python Flask and SQL Server on Linux
